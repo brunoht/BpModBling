@@ -10,7 +10,7 @@ class BlingServiceProvider extends ServiceProvider
     /**
      * @var string $moduleName
      */
-    protected $moduleName = 'Bling';
+    protected $moduleName = 'BpModBling';
 
     /**
      * @var string $moduleNameLower
